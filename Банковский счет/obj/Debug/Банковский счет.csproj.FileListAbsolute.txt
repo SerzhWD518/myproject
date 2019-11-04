@@ -1,0 +1,7 @@
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\bin\Debug\Банковский счет.exe.config
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\bin\Debug\Банковский счет.exe
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\bin\Debug\Банковский счет.pdb
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\obj\Debug\Банковский счет.csprojResolveAssemblyReference.cache
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\obj\Debug\Банковский счет.csproj.CoreCompileInputs.cache
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\obj\Debug\Банковский счет.exe
+C:\Users\vilba\source\repos\Банковский счет\Банковский счет\obj\Debug\Банковский счет.pdb
